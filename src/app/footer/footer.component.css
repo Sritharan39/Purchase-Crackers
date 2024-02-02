@@ -1,0 +1,73 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    background: #a81814; 
+    color:#fff; 
+    padding-top: 60px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    
+}
+.details{
+    display: inline;
+    padding: 10px;
+}
+.explore{
+    display: inline;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.heading{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-weight: none;
+}
+.details1{
+    letter-spacing: 0.05px;
+    line-height: 1,0;
+    text-align: left;
+}
+.details2{
+    letter-spacing: 0.05px;
+    line-height: 1,0;
+}
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.contact{
+    padding: 10px;
+}
+.bold-heading3{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.contact-deltails{
+    letter-spacing: 0.1px;
+    line-height: 1;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.reach{
+    padding: 10px;
+}
+.copyright{
+    text-align: center;
+}
+.para-rules{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    letter-spacing: 0.1px;
+    line-height: 1.8;
+}
