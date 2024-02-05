@@ -1,0 +1,88 @@
+.container{
+    max-width: 1159px;
+    height: 130px;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding: 70px 15px;
+}
+.our-brands{
+    display: flex;
+    flex-direction: row;
+    height: 130px;
+}
+
+.left-content{
+width: 30%;
+padding: 0px 15px;
+}
+
+.head-font{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: #137cc9;
+    font-size: 40px;
+}
+.brand-description{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.right-content{
+    width: 70%;
+    padding-top: 10px;
+    animation-direction: reverse;
+    animation-iteration-count: infinite;
+    animation-timing-function:ease-in-out;
+    z-index: 1;
+}
+.brand-logo{
+    margin: 10px;
+    width: 130px;
+    height: 90px;
+}
+.brand-img{
+    display: inline;
+}
+
+.container1{
+    height: 100px;
+    padding: 50px 15px;
+    background-color: #fecb00;
+    
+}
+.our-quality{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+.left-con{
+    width: 70%;
+}
+.head{
+    text-align: center;
+    margin-top: 10px;
+}
+.head-description{
+    text-align: center;
+    margin-top: 0px;
+    font-size: 16px;
+}
+
+.right-con{
+    width: 30%;
+    padding: 0px 10px;
+    height: 100px;
+}
+.buy-button{
+    background-color: #333;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+    cursor: pointer;
+}
